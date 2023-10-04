@@ -25,7 +25,7 @@ alert(aaa)
 
 var mov= prompt("multiplication table of 4 , write the any number")
 var mov1=(mov*4)
-var aaa="Table of 4:" + mov1
+var aaa="it 4 of Table :"  + mov1
 alert(aaa)
 
 var mov= prompt("Temperature Converter of Faghrien heat to centigread")
